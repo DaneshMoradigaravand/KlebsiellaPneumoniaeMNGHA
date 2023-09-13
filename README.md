@@ -35,10 +35,7 @@ For inquiries regarding this research, please contact:
 Infectious Disease Epidemiology  
 Biological and Environmental Science and Engineering (BESE) Division  
 Lab website: [https://ide.kaust.edu.sa/](https://ide.kaust.edu.sa/)  
-Twitter: [@DaneshMoradi](https://twitter.com/DaneshMoradi)  
-Office Number: +966 12 808 0746  
-Mobile Number: +966 56 850 8420 / +966 54 470 1551  
-Office Location: Building 3 Level 4 Office 4336  
+Email: [danesh.moradigaravand@kaust.edu.sa]
 King Abdullah University of Science and Technology (KAUST)  
 Thuwal 23955  
 Saudi Arabia

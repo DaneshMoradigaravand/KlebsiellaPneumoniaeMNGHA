@@ -9,7 +9,7 @@
 
 **Findings:** We discovered a diverse population underlying the infections, with most strains belonging to Clonal Complex 14 (CC14) exhibiting dominance. Specifically, we observed the emergence and continuous expansion of strains belonging to the dominant ST2096 in the CC14 clade across hospital wards in recent years. These strains acquired resistance mutations against Colistin and ESBL and carbapenemase genes, namely blaOXA-48 and blaOXA-232, located on three distinct plasmids, on epidemiological time scales. Strains of ST2096 exhibited a higher virulence level with the presence of the siderophore Aerobactin (*iuc*) gene situated on the same mosaic plasmid as ESBL resistance gene. Integration of ST2096 with EHR data confirmed the significant link between colonization by ST2096 and the diagnosis of sepsis and elevated in-hospital mortality.
 
-**Interpretation:** Overall, these results demonstrate the clinical significance of ST2096 clones and illustrate the rapid evolution of an emerging hypervirulent and MDR K. pneumoniae in a clinical setting.
+**Interpretation:** Overall, these results demonstrate the clinical significance of ST2096 clones and illustrate the rapid evolution of an emerging hypervirulent and MDR *K. pneumoniae* in a clinical setting.
 
 ## Files and Descriptions 
 

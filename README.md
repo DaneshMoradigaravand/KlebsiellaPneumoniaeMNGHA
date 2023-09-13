@@ -12,6 +12,18 @@
 
 ## Files and Descriptions 
 
+| File Name                         | Description                                      |
+| --------------------------------- | ------------------------------------------------ |
+| Kaptive_results.csv               | Capsule typing results from Kaptive              |
+| Klaborate_results.txt              | Klaborate report                                 |
+| NDM_plasmid.gbk                   | Gene Bank File for the Hl1B plasmid             |
+| OXA232_plasmid.gbk                | Gene Bank File for the Bla-OXA232 plasmid       |
+| OXA48_plasmid.gbk                 | Gene Bank File for the Bla-OXA48 plasmid        |
+| assembly_stats.txt                | Assembly statistics                              |
+| gene_presence_absence_roary_plasmid.csv | Pangenome file for the H1lB plasmids   |
+| mlst_output.csv                   | MLST results                                     |
+
+
 ## Contacts
 
 For inquiries regarding this research, please contact:

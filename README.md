@@ -16,7 +16,8 @@
 
 For inquiries regarding this research, please contact:
 
-Danesh Moradigaravand
+**Danesh Moradigaravand**
+
 **Assistant Professor and Group Leader**  
 Infectious Disease Epidemiology  
 Biological and Environmental Science and Engineering (BESE) Division  

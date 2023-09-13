@@ -1,4 +1,4 @@
-# The Emergence of Highly Resistant and Hypervirulent Klebsiella pneumoniae CC14 Clone
+# The Emergence of Highly Resistant and Hypervirulent *Klebsiella pneumoniae* CC14 Clone
 
 ## Abstract
 

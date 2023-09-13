@@ -29,13 +29,13 @@
 
 For inquiries regarding this research, please contact:
 
-**Danesh Moradigaravand**
+**Danesh Moradigaravand**]
+Email: danesh.moradigaravand@kaust.edu.sa
 
 **Assistant Professor and Group Leader**  
 Infectious Disease Epidemiology  
 Biological and Environmental Science and Engineering (BESE) Division  
 Lab website: [https://ide.kaust.edu.sa/](https://ide.kaust.edu.sa/)  
-Email: [danesh.moradigaravand@kaust.edu.sa]
 King Abdullah University of Science and Technology (KAUST)  
 Thuwal 23955  
 Saudi Arabia

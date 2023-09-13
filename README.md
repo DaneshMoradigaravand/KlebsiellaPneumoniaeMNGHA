@@ -38,6 +38,6 @@ Infectious Disease Epidemiology
 Biological and Environmental Science and Engineering (BESE) Division  
 Lab website: [https://ide.kaust.edu.sa/](https://ide.kaust.edu.sa/)  
 King Abdullah University of Science and Technology (KAUST)  
-Thuwal 23955  
+Thuwal
 Saudi Arabia
 
